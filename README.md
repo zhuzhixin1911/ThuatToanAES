@@ -16,7 +16,7 @@ Một ứng dụng web đơn giản cho phép **mã hóa** và **giải mã** fi
 
 ### 🔒 Giao diện mã hóa:
 
-![Giao diện mã hóa](images/encrypt_ui.png)
+![Giao diện mã hóa](main/)
 
 ### 🔓 Giao diện giải mã:
 
