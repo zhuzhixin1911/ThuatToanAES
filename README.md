@@ -20,6 +20,6 @@ Một ứng dụng web đơn giản cho phép **mã hóa** và **giải mã** fi
 
 ### 🔓 Giao diện giải mã:
 
-<img src="GiaiMa.png.png" alt="Ảnh minh họa" width="400" height="250">
+<img src="GiaiMa.png" alt="Ảnh minh họa" width="400" height="250">
 
 ### PHAN VĂN ĐẰNG - ĐẠI HỌC ĐẠI NAM
