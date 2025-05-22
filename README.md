@@ -20,4 +20,4 @@ Một ứng dụng web đơn giản cho phép **mã hóa** và **giải mã** fi
 
 ### 🔓 Giao diện giải mã:
 
-![Giao diện giải mã](GiaMa.png)
+![Giao diện giải mã](GiaiMa.png)
