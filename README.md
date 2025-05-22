@@ -16,8 +16,8 @@ Một ứng dụng web đơn giản cho phép **mã hóa** và **giải mã** fi
 
 ### 🔒 Giao diện mã hóa:
 
-![Giao diện mã hóa](Screenshot_2025-05-22_105206.png)
+![Giao diện mã hóa](MaHoa.png)
 
 ### 🔓 Giao diện giải mã:
 
-![Giao diện giải mã](images/decrypt_ui.png)
+![Giao diện giải mã](GiaMa.png)
