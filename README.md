@@ -16,10 +16,14 @@ Một ứng dụng web đơn giản cho phép **mã hóa** và **giải mã** fi
 
 ### 🔒 Giao diện mã hóa:
 
-<img src="MaHoa.png" alt="Ảnh minh họa" width="250" height="250">
+<p align="center">
+  <img src="MaHoa.png" alt="Ảnh minh họa" width="250" height="250">
+</p>
 
 ### 🔓 Giao diện giải mã:
 
-<img src="GiaiMa.png" alt="Ảnh minh họa" width="250" height="250">
+<p align="center">
+  <img src="GiaiMa.png" alt="Ảnh minh họa" width="250" height="250">
+</p>
 
 ### PHAN VĂN ĐẰNG - ĐẠI HỌC ĐẠI NAM
