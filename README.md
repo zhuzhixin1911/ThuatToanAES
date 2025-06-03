@@ -1,4 +1,4 @@
-# ThuatToanAES
+# Thuật Toán AES
 Một ứng dụng web đơn giản cho phép **mã hóa** và **giải mã** file sử dụng thuật toán **AES (Advanced Encryption Standard)**. Ứng dụng hỗ trợ giao diện web trực quan với Flask và có thể chạy dễ dàng trên Google Colab.
 
 ---
