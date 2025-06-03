@@ -8,7 +8,7 @@ Một ứng dụng web đơn giản cho phép **mã hóa** và **giải mã** fi
 - ✅ **Mã hóa (Encrypt)**: Tải lên một file và nhập khóa 16 ký tự để mã hóa file đó bằng AES-128.
 - ✅ **Giải mã (Decrypt)**: Tải lên file đã mã hóa cùng với khóa gốc để khôi phục lại nội dung ban đầu.
 - ✅ **Giao diện web thân thiện**: Giao diện HTML chia thành hai trang riêng biệt: Encrypt và Decrypt.
-- ✅ **Tích hợp trên Google Colab** bằng ngrok.
+- ✅ **Tích hợp trên Google Colab** bằng ngrok và python.
 
 ---
 
